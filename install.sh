@@ -139,7 +139,6 @@ uninstall() {
 	fi
 }
 
-}
 get_ip() {
 	ip=$(curl -s ipinfo.io/ip)
 }
